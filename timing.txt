@@ -1,0 +1,33 @@
+Devoxx Timing
+
+* Introduction - 5 minutes
+* Testing - 15 minutes
+                                                        -- 20 minutes
+* PhantomJS
+        * Slides - 20 minutes
+        * Demo - 20 minutes
+                                                        --  1h00
+* Zombie.js
+        * Slides - 15 minutes
+        * Demo - 20 minutes
+                                                        -- 1 h35
+* QUnit - 10 minutes
+                                                        -- 1h45
+* Sinon.js
+        * Slides - 15 minutes
+        * Demo - 15 minutes
+                                                        -- 2h15 (et oui)
+* Karma
+        * Slides - 10 minutes
+        * Demo - 10 minutes
+                                                        -- 2h35 (on est mort)
+* chai.js + Mocha
+        * slides - 5 minutes
+        * Demo - 5 minutes
+                                                        -- 2h45
+* Buster.js - 15 minutes 
+                                                        --3h00 (ARGH)
+* jsCover - 5 minutes
+* Plato - 5 minutes
+* wrapup - 10 minutes
+                                                        -- 3h20 (ahah)

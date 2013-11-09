@@ -1,0 +1,45 @@
+[
+    {
+        "id":"apprendre-ecrire-cursive-effacable",
+        "title":"J'apprends l'écriture cursive ",
+        "accroche":"Cahier d'écriture cursive effaçable pour dyspraxiques",
+        "price":"19.00"
+    },
+    {
+        "id":"entraine-ecrire-cursive-effacable",
+        "title":"Je m'entraine à l'écriture cursive",
+        "accroche":"Cahier effaçable pour s'entrainer à écrire en cursive",
+        "price":"19.00"
+    },
+    {
+        "id":"cahier-ecrire-cursive-7",
+        "title":"Cahier d'écriture cursive 7 mms",
+        "accroche":"Cahier pour s'entrainer à écrire en cursive pour dyspraxiques et dysgraphiques ",
+        "price":"10.00"
+    },
+    {
+        "id":"mon-cahier-7",
+        "title":"Mon Cahier 7 mm",
+        "accroche":"Cahier vierge pour dyspraxiques et dysgraphiques",
+        "price":"9.00"
+    },
+    {
+        "id":"mon-cahier-5",
+        "title":"Mon Cahier 5 mm",
+        "accroche":"Cahier vierge pour dyspraxiques et dysgraphiques",
+        "price":"9.00"
+    },
+    {
+        "id":"mon-cahier-3",
+        "title":"Mon Cahier 3 mm",
+        "accroche":"Cahier vierge pour dyspraxiques et dysgraphiques",
+        "price":"9.00"
+    },
+    {
+        "id":"mon-cahier-seyes",
+        "title":"Mon Cahier seyes (2 mm)",
+        "accroche":"Cahier vierge pour dyspraxiques et dysgraphiques",
+        "price":"9.00"
+    }
+
+]

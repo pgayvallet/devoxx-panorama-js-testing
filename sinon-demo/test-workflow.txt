@@ -1,0 +1,51 @@
+
+
+1- Client should have a server and no drinks when arriving in the bar
+    - ok client.server != null
+    - strictEq client.drinks.length, 0
+
+2- Server should serve a beer to the client who ordered one
+    - factoriser avec module.setup
+    - create clientB
+    - spy server.serveBeer
+    - clientA.orderBeer()
+    - ok serveSpy.calledOnce
+    - ok serveSpy.withArgs(clientA).calledOnce
+    - ok servcSpy.withArgs(clientB).notCalled
+
+3- Server should not be able to serve a beer if he is busy
+    - spy server.serveBeer
+    - stub server.isBusy returns(true)
+    - client.orderBeer()
+    - ok serveSpy.notCalled
+
+4- Client should go to the toilets 15 minutes after the first beer
+    - asyncTest
+    - SINON.SPY !! client.goToTheBathroom
+    - client.orderBeer()
+    - ok bathroomSpy.notCalled
+    - setTimeout 15* ONE_MINTE
+    - ok bathRoomSpy.calledOnce
+    - start()
+
+
+4b - With sinon
+    - asyncTest -> test
+    - clock.tick(15* ONE_MINUTE)
+    - ok bathroomSpy.calledOnce
+
+5- Client should pay the bill when the server give it to him
+    - spy client.payBill
+    - fakeServer = this.sandbox.useFakeServer
+    - respondWith 200 Content-Type : text/json , JSON.stringify({amount : X})
+    - client.requestBill
+    - ok paySpy.notCalled
+    - server.respond
+    - paySpy.calledOnce.
+
+ALL DONE !
+
+
+
+
+

@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>QUnit & Sinon.JS - Devoxx FR 2013</title>
+    <link rel="stylesheet" href="/lib/qunit.css">
+
+    <script type="text/javascript" src="/lib/jquery.js"></script>
+    <script type="text/javascript" src="/lib/underscore.js"></script>
+    <script type="text/javascript" src="/lib/backbone.js"></script>
+
+    <script type="text/javascript" src="/lib/qunit.js"></script>
+    <script type="text/javascript" src="/lib/sinon.js"></script>
+    <script type="text/javascript" src="/lib/sinon-qunit.js"></script>
+
+    <script type="text/javascript" src="/sources.js"></script>
+
+    <script type="text/javascript" src="/tests.js"></script>
+
+    <script type="text/javascript">
+        sinon.config.useFakeTimers = false;
+        sinon.config.useFakeServer = sinon.fakeServerWithClock;
+    </script>
+
+</head>
+<body>
+    <div id="qunit"></div>
+    <div id="qunit-fixture"></div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+
+choisir les feature tests !
+
+1/ creation test home
+
+    - verification du titre
+        -> assertTitle
+
+    - verification du nombre de produits
+
+    - verification des noms des produits (.produit h2)
+        -> lecture du fichier products ( fs.read )
+        -> iterate assertEval  ( ou iterate dans le loop )
+
+    - verification empty basket
+        -> click #panier a
+        -> assertSelectorHasText #content h2.font
+
+2/ preparation pour le second test
+
+    - creation du includes.js
+        -> variables homeUrl
+        -> lecture produit
+
+    - creation de launcher.sh
+        -> --includes=includes.js
+        -> --direct
+
+3/ creation test order
+
+    - ajout du produit : click .produit:first-child .btn_ajouter
+    - wait then assert "#nb-article" .text == "1 article"
+    - ajout d'un second produit -> assert "2 articles"
+    - click pour panier : "#panier a"
+
+    - assert  "#table_kart .basket_item" . length == 2
+
+        -> refactor : casper.countSelector
+                      casper.test.assertSelectorLengthEquals
+
+    - verification des noms des produits
+        // attention : nth-child 2 et 3 -> products[0].title & products[1].title
+        - #table_kart .basket_item:nth-child(2) h3.font
+
+    - click validate : ".valider a"
+        -> assertUrlMatch /order[.]html$/
+    - click "#validate"
+        -> assertExists "span.error"
+    - then macro fill
+    - then assertSelectorHasText "#content" "bien été enregistrée"
+
+4/ partie backoffice
+
+    - thenOpen test:test@localhost:8080/orders
+
+    - click "#orderTable tbody tr:first-child td:first-child"
+
+    - wait 1000
+
+    - assertSelectorHasText "#shipping address", "66 rue ambroise..."
+
+5/ export format xunit
+
+
+
+
+
+

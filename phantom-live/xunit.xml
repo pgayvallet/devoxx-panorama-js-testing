@@ -1,0 +1,13 @@
+<testsuite time="0">
+    <testcase classname="test_order" name="Found &quot;2 articles&quot; within the selector &quot;#nb-article&quot;"
+              time="1.015"></testcase>
+    <testcase classname="test_order" name="basket should contains 2 items" time="0.192"></testcase>
+    <testcase classname="test_order" name="error should be displayed" time="0.222"></testcase>
+    <testcase classname="test_order"
+              name="Found &quot;Votre commande a bien été enregistrée&quot; within the selector &quot;#content&quot;"
+              time="0.415">
+        <failure type="assertSelectorHasText">Found "Votre commande a bien été enregistrée" within the selector
+            "#content"
+        </failure>
+    </testcase>
+</testsuite>

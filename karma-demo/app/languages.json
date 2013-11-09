@@ -1,0 +1,26 @@
+[
+    {
+    	"name": "Javascript",
+     	"description": "JavaScript is a prototype-based scripting language that is dynamic, weakly typed, and has first-class functions. Its syntax was influenced by the language C. "
+    },
+    {
+    	"name": "Coffeescript",
+     	"description": "CoffeeScript is a programming language that transcompiles to JavaScript. The language adds syntactic sugar inspired by Ruby, Python and Haskell to enhance JavaScript's brevity and readability, and add more sophisticated features like list comprehension and pattern matching."
+    },
+    {
+    	"name": "Java",
+     	"description": "Java is a general-purpose, concurrent, class-based, object-oriented computer programming language that is specifically designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that code that runs on one platform does not need to be recompiled to run on another."
+    },
+    {
+        "name":"Haskell",
+        "description":"Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing. It is named after logician Haskell Curry. In Haskell, 'a function is a first-class citizen' of the programming language. As a functional programming language, the primary control construct is the function."
+    },
+    {
+        "name":"Cobol",
+        "description":"COBOL is one of the oldest programming languages, primarily designed by Grace Hopper. Its name is an acronym for COmmon Business-Oriented Language, defining its primary domain in business, finance, and administrative systems for companies and governments."
+    },
+    {
+        "name":"Clojure",
+        "description":"Clojure (pronounced like 'closure') is a dialect of the Lisp programming language created by Rich Hickey. It is a functional general-purpose language. Its focus on programming with immutable values and explicit progression-of-time constructs are intended to facilitate the development of more robust programs, particularly multithreaded ones"
+    }
+]

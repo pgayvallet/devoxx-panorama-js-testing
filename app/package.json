@@ -1,0 +1,15 @@
+{
+  "name": "panorama-js-testing",
+  "description": "Devoxx 2013 Javascript Testing Panorama",
+  "version": "2013.3.27-devoxx",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "socket.io": "0.9.13",
+    "ejs": "0.8.x",
+    "ejs-locals": "~1.0.2",
+    "chai": "~1.5.0",
+    "mocha": "~1.8.2",
+    "buster": "~0.6.12"
+  }
+}

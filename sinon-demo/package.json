@@ -1,0 +1,9 @@
+{
+    "name": "SinonJS-Demo",
+    "description": "Devoxx 2013 Javascript Testing Panorama",
+    "version": "2013.3.27-devoxx",
+    "private": true,
+    "dependencies": {
+        "express": "3.x"
+    }
+}

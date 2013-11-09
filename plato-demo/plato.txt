@@ -1,0 +1,4 @@
+
+npm install -g plato
+cd jquery
+plato -r -d report src
