@@ -2,162 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fad050c0-d459-45bc-9955-9a5a1af2cc3b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/PanoramaDesOutilsDeTestsJS.key" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/alien_sugar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/bourriquet_lasagnes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/buster-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/buster_part.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/casper_part.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/casperjs_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/coverage_part.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/devoxx_template.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-live/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/isobox_chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/isobox_phantom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/jscoverage_detail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/jscoverage_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/my_little_pony_lasagnes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/nabila-allo-tes-une-fille-et-tas-pas-de-shampoing.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-live/order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/phantom_part.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/phantomjs_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/plato_detail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/plato_overview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/plato_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/qunit_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/qunit_part.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/rabbit_pancake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sinonjs_part.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/sugar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/tumblr_lu824a20be1r5ub9xo1_500.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/we-need-to-go-deeper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/xebia_casper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/xebia_chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/images/yo_dang.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/angular-mocks/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/_server.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/angular-mocks/angular-mocks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/lib/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/buster.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/buster.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/buster_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/buster_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sandbox/busterjs_sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sandbox/casper_sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/angular/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/angular-mocks/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/jquery/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/jquery/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devoxx-panorama-js-testing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devoxx-panorama-js-testing.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devoxx-panorama-js-testing.iws" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/includes/global_imports.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/view/includes/global_imports.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/includes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-live/includes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/view/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/jasmine/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/jasmine/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/jasmine/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/jasmine/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/jasmine/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/jasmine/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/components/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/app/languages.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/launcher.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/layout/main.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/view/layout/main.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mocha-jai/mocha-demo.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sandbox/phantom_sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sandbox/phantom_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plato-demo/plato.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/javascript/qunit/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/javascript/qunit/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/products.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-live/products.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/lib/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/qunit.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/view/qunit.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/qunit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/qunit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/lib/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sandbox/qunit_sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/qunit_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/qunit_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/lib/sinon-qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/sinon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/sinon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/sinon/sinon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/sinon/sinon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/lib/sinon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sandbox/sinon_sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/snippets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/sources.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/complete/sources_origin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/test-workflow.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/test-workflow.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-demo/test/test.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/features/test_canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/features/test_css_animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/features/test_css_transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/features/test_earth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/tests/test_home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-live/test_home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/features/test_isocube.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/features/test_modernizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/tests/test_order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-live/test_order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/javascript/qunit/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/javascript/qunit/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/complete/tests_origin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/timing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/public/lib/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-demo/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qunit-demo/app/public/lib/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sinon-demo/public/lib/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/sandbox/xunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phantom-live/xunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zombie-demo/zombie.coffee" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/devoxx-panorama-js-testing.iws" afterPath="" />
     </list>
     <ignored path="devoxx-panorama-js-testing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384018440002" ignored="false" />
+    <file path="/Dummy.txt" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384018904533" ignored="false" />
     <file path="$USER_HOME$/workspaces/devoxx2013/serpodile/webshop/.idea/compiler.xml" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384014380934" ignored="false" />
     <file path="$USER_HOME$/workspaces/devoxx2013/serpodile/webshop/.idea/workspace.xml" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384015188903" ignored="false" />
     <file path="/plato.txt" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384016169996" ignored="false" />
@@ -231,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+            <state line="4" column="17" selection-start="48" selection-end="48" vertical-scroll-proportion="0.17142858">
               <folding />
             </state>
           </provider>
@@ -249,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zombie.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="zombie.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zombie-demo/zombie.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -532,14 +381,18 @@
       <created>1384017858625</created>
       <updated>1384017858625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial import">
+      <created>1384018908687</created>
+      <updated>1384018908687</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47724137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47856155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -551,20 +404,20 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22293815" sideWeight="0.5227586" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22293815" sideWeight="0.5214385" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -610,7 +463,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="preparing for export" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial import" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -624,7 +477,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="bootstrapping app" />
     <MESSAGE value="adding common usage libs &amp; basic imports layout" />
     <MESSAGE value="adding presentation template" />
     <MESSAGE value="updating casper and phantom slides" />
@@ -649,6 +501,7 @@
     <MESSAGE value="adding test-workflow file for qunit/sinon" />
     <MESSAGE value="updating qunit/sinon demo workflow." />
     <MESSAGE value="preparing for export" />
+    <MESSAGE value="initial import" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -759,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
@@ -776,6 +622,13 @@
     <entry file="file://$PROJECT_DIR$/zombie-demo/zombie.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="48" selection-end="48" vertical-scroll-proportion="0.17142858">
           <folding />
         </state>
       </provider>
