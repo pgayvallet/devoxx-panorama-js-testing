@@ -25,7 +25,7 @@ Les exemples et situations sont tirés de plus d'1 an de plusieurs projets sur l
 
 ## Proposed Schedule
 
-1. Welcome hello, salux, Qui on est pourquoi on est là pub xebia studio tout ca toutca 20 min
+1. Welcome hello, salux, Qui on est pourquoi on est là pub code story tout ca tout ca 20 min
 1. Plan des 3 h
 1. Need for testing !
 1. Difference between unit & acceptance
@@ -50,10 +50,4 @@ Les exemples et situations sont tirés de plus d'1 an de plusieurs projets sur l
 2. Outils de coverage
 1. les tendances
 1. Wrapup
-
-
-## Todo
-* choisir un soft de presentation
-* valider avec les gugus de devoxx qu'on a le droit de faire du impress.js
-* Trouver une appli de démonstration
 
