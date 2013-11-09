@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fad050c0-d459-45bc-9955-9a5a1af2cc3b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/buster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/buster_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/javascript/qunit/plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/javascript/qunit/tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/lib/jasmine/jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/lib/jasmine/jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/lib/jasmine/jasmine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/qunit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/public/sinon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/view/includes/global_imports.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/view/index.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/view/layout/main.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~/workspaces/devoxx2013/devoxx-panorama-js-testingqunit-demo/app/view/qunit.ejs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/devoxx-panorama-js-testing.iws" afterPath="$PROJECT_DIR$/devoxx-panorama-js-testing.iws" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/devoxx-panorama-js-testing.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/devoxx-panorama-js-testing.ipr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/devoxx-panorama-js-testing.iws" afterPath="" />
     </list>
     <ignored path="devoxx-panorama-js-testing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384021424746" ignored="false" />
+    <file path="/Dummy.txt" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384021598880" ignored="false" />
     <file path="$USER_HOME$/workspaces/devoxx2013/serpodile/webshop/.idea/compiler.xml" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384014380934" ignored="false" />
     <file path="$USER_HOME$/workspaces/devoxx2013/serpodile/webshop/.idea/workspace.xml" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384015188903" ignored="false" />
     <file path="/plato.txt" changelist="fad050c0-d459-45bc-9955-9a5a1af2cc3b" time="1384016169996" ignored="false" />
@@ -97,6 +84,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.32751092">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="demo.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/qunit-demo/demo.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -151,10 +147,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests_origin.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="tests_origin.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sinon-demo/public/complete/tests_origin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.7292576">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -462,7 +458,11 @@
       <created>1384021429980</created>
       <updated>1384021429980</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="cleaning up messed up ~ folder">
+      <created>1384021602215</created>
+      <updated>1384021602215</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -540,7 +540,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving phantom live to demo folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning up messed up ~ folder" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -554,7 +554,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="still buster.js" />
     <MESSAGE value="sinon prez - relecture 1 done." />
     <MESSAGE value="yo dawg. I heard you like prez. so I put prez in your prez so you can prez while you prez." />
     <MESSAGE value="prepared casperjs test suite" />
@@ -579,6 +578,7 @@
     <MESSAGE value="renaming app to buster-demo" />
     <MESSAGE value="cleaning up qunit demo" />
     <MESSAGE value="moving phantom live to demo folder" />
+    <MESSAGE value="cleaning up messed up ~ folder" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -642,13 +642,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.16930023">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,7 +720,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sinon-demo/public/complete/tests_origin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.7292576">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.32751092">
           <folding />
         </state>
       </provider>
