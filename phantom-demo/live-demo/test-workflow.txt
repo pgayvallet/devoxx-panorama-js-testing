@@ -1,0 +1,67 @@
+(live templates : ctrl-j : test / homeVars)
+
+1/ site presentation
+
+    - open chrome -> localhost:8080
+
+2/ home test suite
+
+    - create file + test live tpl
+
+    - casperjs test test_home.js
+
+    - titre test
+        -> assertTitle
+
+    - test number of product
+        -> assertEval .produit 7
+
+3/ preparing for second test
+
+    - create includes.js
+        -> variables homeUrl
+
+    - casperjs --includes=includes.js test_home.js
+
+4/ order test suite
+
+    - casperjs --includes=includes.js test_home.js test_order.js
+
+    - add products to basket :
+        - thenClick .produit:nth-child(1) .btn_ajouter
+        - thenClick .produit:nth-child(2) .btn_ajouter
+
+    - thenWait 500 for animation
+
+    - check basket text
+        - assertSelectorHasText #nb-article "2 articles"
+
+    - thenClick  "#panier a"
+
+    - verif url basket
+        - assertUrlMatch /cart$/ "should be on the basket page"
+
+
+    - verif nb element in basket
+        - assertEval  $("#table_kart .basket_item").length == 2
+
+    - validate basket
+        - thenClick .btn-valider
+
+    - submit invalid form
+        - thenClick #validate
+
+    - check rendering
+        -> casper.capture
+
+    - check error messages
+        - assertVisible span.error
+
+5/ show xunit export
+    - add --xunit=xunit.xml
+
+
+
+
+
+
